@@ -1,3 +1,32 @@
+commit 9519fa02d011c939093e04157274c8653cae9589
+Merge: 5a5f031 bf739c1
+Author: MingChCS <mingyichen99@icloud.com>
+Date:   Tue Feb 10 11:48:59 2026 -0800
+
+    Merge branch 'main' of https://github.com/MingChCS/CS3338-Homework-1
+
+commit 5a5f031049fad57bfb0f77f1e4f7b1d872f05174
+Author: MingChCS <mingyichen99@icloud.com>
+Date:   Tue Feb 10 11:46:42 2026 -0800
+
+    Update index.html
+    
+    My teammate's answers
+
+commit bf739c1009bed881de3255ad01ca60b22b4b1f32
+Author: MingChCS <152548030+MingChCS@users.noreply.github.com>
+Date:   Tue Feb 10 11:40:47 2026 -0800
+
+    Update index.html
+    
+    My groupmate's answers
+
+commit 4d89e67bda9ed45e72d0a6a14494be83487fe0c3
+Author: MingChCS <mingyichen99@icloud.com>
+Date:   Tue Feb 10 11:26:24 2026 -0800
+
+    Create git_log.txt
+
 commit cfc4c564cb56b1f3ed39525e572051460bf00716
 Author: KenTen-21 <kennethleung79@gmail.com>
 Date:   Mon Feb 9 22:45:41 2026 -0800
